@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "266009189930",
+    "firebase_url": "https://yummytime-58e8b-default-rtdb.firebaseio.com",
+    "project_id": "yummytime-58e8b",
+    "storage_bucket": "yummytime-58e8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266009189930:android:ba11822934ecbb32c1ed53",
+        "android_client_info": {
+          "package_name": "com.d3if3005.yummytime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266009189930-qs7g1u36v6hgs1uivl45fiosrgiqs63r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4iIJUVbPRtaA95PVVhNPpkBE1LGYdUzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266009189930-qs7g1u36v6hgs1uivl45fiosrgiqs63r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266009189930:android:2d8b3278f2d14206c1ed53",
+        "android_client_info": {
+          "package_name": "org.d3ifcool.yummytime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266009189930-qs7g1u36v6hgs1uivl45fiosrgiqs63r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4iIJUVbPRtaA95PVVhNPpkBE1LGYdUzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266009189930-qs7g1u36v6hgs1uivl45fiosrgiqs63r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

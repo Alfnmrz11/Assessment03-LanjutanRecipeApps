@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">YummyTime</string>
+
+    <string name="search">Search...</string>
+    <string name="checkInternet">Please Check Your Connection</string>
+    <string name="emptyList">List is empty</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="measure">Measure</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+
+    <!--    Login-->
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="notyet">Not yet registered? Sign Up</string>
+
+    <!--    Register-->
+    <string name="signup">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="already">Already an user? Login</string>
+
+</resources>
